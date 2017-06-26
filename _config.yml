@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /meul-test
+exclude: ['README.md']
